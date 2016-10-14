@@ -1,0 +1,23 @@
+/* CSS declarations go here */
+
+.border-right {
+    background-color :;
+    border-right-style: solid;
+    border-right-color: lightgrey;
+    border-right-width: thin;
+}
+#chgBtn {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    text-align: right;
+}
+#web1 {
+    width: 100%;
+    height: 90%;
+}
+#errorMsg {
+    text-align: center;
+    font-size: 800%;
+}
+

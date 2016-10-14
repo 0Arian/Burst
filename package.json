@@ -1,0 +1,23 @@
+{
+  "name": "burst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainFrame-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orion751/Burst-HackNJIT-2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orion751/Burst-HackNJIT-2015/issues"
+  },
+  "homepage": "https://github.com/Orion751/Burst-HackNJIT-2015#readme",
+  "dependencies": {
+    "casper": "*",
+    "express": "^4.13.3"
+  }
+}
